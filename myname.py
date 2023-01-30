@@ -1,1 +1,1 @@
-print('Naveen Kumar reddy kalluru  : 11625071')
+print('class : Deeplearning , Naveen Kumar reddy kalluru  : 11625071')
